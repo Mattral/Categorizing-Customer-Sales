@@ -30,7 +30,7 @@ The dataset used for this analysis is named "supermarket_sales - Sheet1.csv." It
 - The influence of customer type on total sales is examined.
 - The impact of customer type on customer ratings is visualized using swarm plots.
 
-##Word Cloud
+## Word Cloud
 
 - A word cloud is generated to visualize the frequency of product lines in the dataset.
   
